@@ -1,2 +1,2 @@
 # LearningCSS
-CSS Basic 
+CSS Excercise
